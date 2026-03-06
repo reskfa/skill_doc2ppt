@@ -1,4 +1,4 @@
-# /ppt — Claude Code Skill
+# /skill_doc2ppt — Claude Code Skill
 
 将 Markdown 或 Word 文档一键转为可投屏演示文稿。
 
